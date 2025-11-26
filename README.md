@@ -4,7 +4,9 @@
 ---
 I build clean & scalable APIs and Web Applications using Laravel, PHP, Node.js, Express, and PostgreSQL 🛠️
 
-Always curious and constantly learning 🌱 Currently diving into React ⚛️
+Always curious and constantly learning 🌱
+
+Currently diving into React ⚛️
 
 Studied Computer Science & AI at MTI 🎓
 
