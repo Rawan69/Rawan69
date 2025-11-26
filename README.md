@@ -2,7 +2,7 @@
 
 ## 💻 Backend Developer | API Architect | Problem Solver
 
-I build clean & scalable APIs and Web Applications using Laravel, PHP, Node.js, Express, and PostgreSQL 🛠️  
+I build clean & scalable APIs and Web Applications using Laravel, PHP, Node.js, Express,MYSQL, and PostgreSQL 🛠️  
 Always curious and constantly learning 🌱 Currently diving into React ⚛️  
 Studied Computer Science & AI at MTI 🎓  
 Love coding, debugging, and turning ideas into reality ✨  
@@ -51,7 +51,7 @@ Coffee ☕ + Code = ❤️
 
 ---
 
-### 📊 GitHub Stats & Activity
+<!-- ### 📊 GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rawan69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=f4c2c2&icon_color=e75480&text_color=ffffff" alt="Rawan's GitHub Stats" height="170" />
@@ -60,14 +60,14 @@ Coffee ☕ + Code = ❤️
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rawan69&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=f4c2c2&line=e75480&point=ffffff" alt="Rawan's Activity Graph" />
-</div>
+</div> -->
 
 ---
 
 ### ✨ Coding GIF
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjhneXVhbjIzdmMyd3Q0ZmQ0ZjBkbGwydnB5cWJlZHo3NWs5andodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9RnJWRWoiRZlHgaHa/giphy.gif" width="400" alt="coding gif" />
 </div>
 
 ---
