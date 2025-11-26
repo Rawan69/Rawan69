@@ -1,14 +1,19 @@
-<h1 align="left">👋Hi there! I'm Rawan</h1>
+<h1 align="left">👋 Hi there! I'm Rawan</h1>
 
 ###
 
-<h2 align="left">! I’m a passionate Backend Developer 💻  <br>I build clean & scalable APIs and Web Applications using Laravel, PHP, Node.js, Express, and PostgreSQL 🛠️  <br>Always curious and constantly learning 🌱 Currently diving into React ⚛️ <br>Love coding, debugging, and turning ideas into reality ✨  <br>Coffee ☕ + Code = ❤️</h2>
+<h2 align="left">
+I’m a passionate Backend Developer 💻 <br>
+I build clean & scalable APIs and Web Applications using Laravel, PHP, Node.js, Express, and PostgreSQL 🛠️ <br>
+Always curious and constantly learning 🌱 Currently diving into React ⚛️ & Flutter 🐦 <br>
+Studied Computer Science & AI at MTI 🎓 <br>
+Love coding, debugging, and turning ideas into reality ✨ <br>
+Coffee ☕ + Code = ❤️
+</h2>
 
 ###
 
-<h3 align="left">Languages</h3>
-
-###
+<h3 align="left">Languages & Tech Stack</h3>
 
 <br clear="both">
 
@@ -33,20 +38,20 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
 </div>
 
 ###
 
-<h3 align="left">contact me</h3>
-
-###
+<h3 align="left">Contact Me</h3>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=f4c2c2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=e75480&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/rawan-medhat-5b8240373" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=f4c2c2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:rawanmedhat2055@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=e75480&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
 </div>
 
 ###
@@ -56,9 +61,8 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rawan69/Rawan69/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rawan69/Rawan69/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rawan69/Rawan69/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rawan69&show_icons=true&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rawan69&show_icons=true&theme=default">
+  <img alt="Rawan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rawan69&show_icons=true&theme=default">
 </picture>
 
-###
