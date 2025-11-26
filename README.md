@@ -52,9 +52,6 @@ Coffee ☕ + Code = ❤️
 ---
 
 ### ✨ Coding GIF
-
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjhneXVhbjIzdmMyd3Q0ZmQ0ZjBkbGwydnB5cWJlZHo3NWs5andodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9RnJWRWoiRZlHgaHa/giphy.gif" width="400" alt="coding gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
 </div>
-
----
