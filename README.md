@@ -1,5 +1,7 @@
 👋 Hi there! I'm Rawan
+------
 💻 Backend Developer | API Architect | Problem Solver
+---
 I build clean & scalable APIs and Web Applications using Laravel, PHP, Node.js, Express, and PostgreSQL 🛠️
 Always curious and constantly learning 🌱 Currently diving into React ⚛️
 Studied Computer Science & AI at MTI 🎓
@@ -45,4 +47,6 @@ Coffee ☕ + Code = ❤️
 
 
 ---
-
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjhneXVhbjIzdmMyd3Q0ZmQ0ZjBkbGwydnB5cWJlZHo3NWs5andodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9RnJWRWoiRZlHgaHa/giphy.gif" width="400" alt="coding gif" />
+</div>
