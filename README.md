@@ -2,7 +2,7 @@
 ------
 💻 Backend Developer | API Architect | Problem Solver
 ---
-I build clean & scalable APIs and Web Applications using Laravel, PHP, Node.js, Express, and PostgreSQL 🛠️
+I build clean & scalable APIs and Web Applications using Laravel, PHP, Node.js, Express,mySQL, and PostgreSQL 🛠️
 
 Always curious and constantly learning 🌱
 
