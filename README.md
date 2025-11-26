@@ -1,17 +1,13 @@
-# 👋 Hi there! I'm Rawan
-
-## 💻 Backend Developer | API Architect | Problem Solver
-
-I build clean & scalable APIs and Web Applications using Laravel, PHP, Node.js, Express,MYSQL, and PostgreSQL 🛠️  
-Always curious and constantly learning 🌱 Currently diving into React ⚛️  
-Studied Computer Science & AI at MTI 🎓  
-Love coding, debugging, and turning ideas into reality ✨  
+👋 Hi there! I'm Rawan
+💻 Backend Developer | API Architect | Problem Solver
+I build clean & scalable APIs and Web Applications using Laravel, PHP, Node.js, Express, and PostgreSQL 🛠️
+Always curious and constantly learning 🌱 Currently diving into React ⚛️
+Studied Computer Science & AI at MTI 🎓
+Love coding, debugging, and turning ideas into reality ✨
 Coffee ☕ + Code = ❤️
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjhneXVhbjIzdmMyd3Q0ZmQ0ZjBkbGwydnB5cWJlZHo3NWs5andodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9RnJWRWoiRZlHgaHa/giphy.gif" alt="coding gif" />
 
----
-
-### 🛠️ Languages & Tech Stack
-
+🛠️ Languages & Tech Stack
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo" />
   <img width="12" />
@@ -36,10 +32,7 @@ Coffee ☕ + Code = ❤️
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" />
 </div>
 
----
-
-### 📫 Contact Me
-
+📫 Contact Me
 <div align="left">
   <a href="https://www.linkedin.com/in/rawan-medhat-5b8240373" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=f4c2c2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
@@ -49,29 +42,11 @@ Coffee ☕ + Code = ❤️
   </a>
 </div>
 
----
-
-<!-- ### 📊 GitHub Stats & Activity
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rawan69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=f4c2c2&icon_color=e75480&text_color=ffffff" alt="Rawan's GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rawan69&theme=radical&hide_border=true&background=0D1117&ring=f4c2c2&fire=e75480&currStreakLabel=ffffff" alt="Rawan's Streak Stats" height="170" />
+  <img src="https://komarev.com/ghpvc/?username=Rawan69&color=e75480&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rawan69&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=f4c2c2&line=e75480&point=ffffff" alt="Rawan's Activity Graph" />
-</div> -->
-
----
-
-### ✨ Coding GIF
-
-<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjhneXVhbjIzdmMyd3Q0ZmQ0ZjBkbGwydnB5cWJlZHo3NWs5andodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9RnJWRWoiRZlHgaHa/giphy.gif" width="400" alt="coding gif" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rawan69&color=e75480&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
