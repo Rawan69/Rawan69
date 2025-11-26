@@ -5,7 +5,7 @@
 <h2 align="left">
 I’m a passionate Backend Developer 💻 <br>
 I build clean & scalable APIs and Web Applications using Laravel, PHP, Node.js, Express, and PostgreSQL 🛠️ <br>
-Always curious and constantly learning 🌱 Currently diving into React ⚛️ & Flutter 🐦 <br>
+Always curious and constantly learning 🌱 Currently diving into React ⚛️ <br>
 Studied Computer Science & AI at MTI 🎓 <br>
 Love coding, debugging, and turning ideas into reality ✨ <br>
 Coffee ☕ + Code = ❤️
