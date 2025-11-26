@@ -3,10 +3,15 @@
 💻 Backend Developer | API Architect | Problem Solver
 ---
 I build clean & scalable APIs and Web Applications using Laravel, PHP, Node.js, Express, and PostgreSQL 🛠️
+
 Always curious and constantly learning 🌱 Currently diving into React ⚛️
+
 Studied Computer Science & AI at MTI 🎓
+
 Love coding, debugging, and turning ideas into reality ✨
+
 Coffee ☕ + Code = ❤️
+
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjhneXVhbjIzdmMyd3Q0ZmQ0ZjBkbGwydnB5cWJlZHo3NWs5andodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9RnJWRWoiRZlHgaHa/giphy.gif" alt="coding gif" />
 
 🛠️ Languages & Tech Stack
