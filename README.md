@@ -1,49 +1,44 @@
-<h1 align="left">👋 Hi there! I'm Rawan</h1>
+# 👋 Hi there! I'm Rawan
 
-###
+## 💻 Backend Developer | API Architect | Problem Solver
 
-<h2 align="left">
-I’m a passionate Backend Developer 💻 <br>
-I build clean & scalable APIs and Web Applications using Laravel, PHP, Node.js, Express, and PostgreSQL 🛠️ <br>
-Always curious and constantly learning 🌱 Currently diving into React ⚛️ <br>
-Studied Computer Science & AI at MTI 🎓 <br>
-Love coding, debugging, and turning ideas into reality ✨ <br>
+I build clean & scalable APIs and Web Applications using Laravel, PHP, Node.js, Express, and PostgreSQL 🛠️  
+Always curious and constantly learning 🌱 Currently diving into React ⚛️  
+Studied Computer Science & AI at MTI 🎓  
+Love coding, debugging, and turning ideas into reality ✨  
 Coffee ☕ + Code = ❤️
-</h2>
 
-###
+---
 
-<h3 align="left">Languages & Tech Stack</h3>
-
-<br clear="both">
+### 🛠️ Languages & Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" />
 </div>
 
-###
+---
 
-<h3 align="left">Contact Me</h3>
+### 📫 Contact Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rawan-medhat-5b8240373" target="_blank">
@@ -54,15 +49,29 @@ Coffee ☕ + Code = ❤️
   </a>
 </div>
 
-###
+---
 
-<img align="right" height="171" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjhneXVhbjIzdmMyd3Q0ZmQ0ZjBkbGwydnB5cWJlZHo3NWs5andodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9RnJWRWoiRZlHgaHa/giphy.gif"  />
+### 📊 GitHub Stats & Activity
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rawan69&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=f4c2c2&icon_color=e75480&text_color=ffffff" alt="Rawan's GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rawan69&theme=radical&hide_border=true&background=0D1117&ring=f4c2c2&fire=e75480&currStreakLabel=ffffff" alt="Rawan's Streak Stats" height="170" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rawan69&show_icons=true&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rawan69&show_icons=true&theme=default">
-  <img alt="Rawan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rawan69&show_icons=true&theme=default">
-</picture>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rawan69&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=f4c2c2&line=e75480&point=ffffff" alt="Rawan's Activity Graph" />
+</div>
 
+---
+
+### ✨ Coding GIF
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rawan69&color=e75480&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
